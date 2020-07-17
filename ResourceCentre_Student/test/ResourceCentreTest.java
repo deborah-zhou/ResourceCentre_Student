@@ -85,6 +85,7 @@ public class ResourceCentreTest {
 	}
 
 	@Test
+	//TBC by Deborah
 	public void doLoanCamcorderTest() {
 		//fail("Not yet implemented");
 		// write your code here
