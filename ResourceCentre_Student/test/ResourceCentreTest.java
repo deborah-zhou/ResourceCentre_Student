@@ -48,13 +48,8 @@ public class ResourceCentreTest {
 		ResourceCentre.addCamcorder(camcorderList, cc2);
 		assertEquals("Test that Camcorder arraylist size is 2?", 2, camcorderList.size());
 	}
-	
 	@Test
-<<<<<<< HEAD
-	//Change by Deborah
-=======
-	//Change by another account again
->>>>>>> branch 'master' of https://github.com/deborah-zhou/ResourceCentre_Student.git
+	//TBC by Deborah
 	public void addChromebookTest() {
 		//fail("Not yet implemented");
 		// write your code here
