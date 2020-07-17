@@ -50,7 +50,11 @@ public class ResourceCentreTest {
 	}
 	
 	@Test
+<<<<<<< HEAD
 	//Change by Deborah
+=======
+	//Change by another account again
+>>>>>>> branch 'master' of https://github.com/deborah-zhou/ResourceCentre_Student.git
 	public void addChromebookTest() {
 		//fail("Not yet implemented");
 		// write your code here
